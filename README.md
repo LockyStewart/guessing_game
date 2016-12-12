@@ -1,6 +1,2 @@
 # guessing_game
-# guessing_game
-# guessing_game
-# guessing_game
-# guessing_game
-# guessing_game
+Locky's homework
